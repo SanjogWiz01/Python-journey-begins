@@ -1,0 +1,182 @@
+✅ Topics
+
+Basic Syntax & Data Types
+
+Variables, constants
+
+Numbers, Strings, Booleans
+
+Type casting, input(), print() formatting
+
+Operators
+
+Arithmetic, Logical, Comparison, Assignment, Identity, Membership
+
+Conditional Statements
+
+if, elif, else
+
+Nested conditions
+
+Loops
+
+for, while, break, continue, pass
+
+Loop with range()
+
+Using loops on lists, dicts, etc.
+
+Functions
+
+def, arguments, return values
+
+Default, keyword, variable-length arguments
+
+Lambda functions
+
+Data Structures
+
+List – slicing, methods (append, pop, sort, etc.)
+
+Tuple – immutability, unpacking
+
+Set – unique values, set operations
+
+Dictionary – key-value pairs, .items(), .keys()
+
+String Handling
+
+f-strings, .split(), .join(), .replace(), slicing
+
+String formatting tricks for data cleaning
+
+File Handling
+
+Read/Write text and CSV files
+
+with open() pattern
+
+os and shutil basics
+
+⚙️ Stage 2: Intermediate Python (Months 3–4)
+
+Once basics are clear, go deeper — this builds logical and modular thinking.
+
+✅ Topics
+
+Exception Handling
+
+try, except, finally, raise, assert
+
+Handle file errors or wrong inputs safely
+
+Modules and Packages
+
+import and custom modules
+
+Use standard libraries (math, datetime, os, random)
+
+Comprehensions
+
+List, Set, Dict comprehensions
+
+Shortcuts for data filtering and transformations
+
+Iterators & Generators
+
+iter(), next(), yield
+
+Useful in large data handling
+
+Object-Oriented Programming (OOP)
+
+Class, Object
+
+Constructor (__init__)
+
+Inheritance, Polymorphism, Encapsulation
+
+Magic methods like __str__, __len__
+
+Virtual Environments & Pip
+
+venv, pip install, requirements.txt
+
+Know how to isolate project dependencies
+
+📊 Stage 3: Data Handling & Analysis Foundation (Months 5–6)
+
+Before jumping into "data science", you need to handle data with ease.
+
+✅ Topics
+
+NumPy
+
+Arrays, vectorized operations
+
+Indexing, slicing, reshaping
+
+Math operations and broadcasting
+
+Pandas
+
+Series & DataFrame
+
+Read/Write CSV, Excel, JSON
+
+Data cleaning (dropna, fillna)
+
+Filtering, sorting, merging, grouping
+
+Matplotlib & Seaborn
+
+Line, Bar, Pie, Histogram, Scatter plots
+
+Customizing plots (labels, title, legend)
+
+Basic Statistics
+
+Mean, Median, Mode, Variance, Std Dev
+
+Data visualization for insights
+
+🧠 Stage 4: Job-Oriented Python Skills (Months 7–8)
+✅ Topics
+
+Automation with Python
+
+File handling scripts
+
+Data cleaning automation
+
+APIs & JSON
+
+Using requests module
+
+Consuming public APIs
+
+SQL with Python
+
+SQLite or MySQL connector
+
+CRUD operations via Python
+
+Version Control (Git)
+
+git init, commit, push, branch
+
+Work with GitHub (essential for jobs)
+
+🧩 Stage 5: Mini Projects (Months 9–10)
+
+Make 5 beginner-level projects:
+
+Data cleaning script using Pandas
+
+Weather data API project
+
+CSV file analyzer tool
+
+Expense tracker (File-based or SQLite)
+
+Visualization dashboard using Matplotlib

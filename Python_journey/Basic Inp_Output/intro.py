@@ -1,0 +1,1 @@
+print('i just steates to learn python ')
